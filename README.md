@@ -1,4 +1,4 @@
-# CRM Tool Built For Church Leadership/Administration
+# CRM Tool Built For Church Leaders/Admins
 
 - [Summary](#summary)
 - [Technology](#technology)
