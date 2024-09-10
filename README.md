@@ -33,6 +33,10 @@ A simple CRM built for church leadership teams that want to manage contacts/cont
 
 Implemented using <a href="https://recharts.org/en-US/" target="_blank">recharts</a> which is an amazing library and I highly recommend.
 
+<div align="center">
+  <img alt="Dashboard" src="/img/dashboard.png">
+</div>
+
 ### Contacts
 
 Implement using <a href="https://react-hook-form.com/" target="_blank">React Hook Form</a> and <a href="https://zod.dev/" target="_blank">zod</a> for validation. Upon creation of activities related to a contact, last activity date will be updated so users can tell if someone has been reached out to recently.
@@ -46,12 +50,16 @@ Implement using <a href="https://react-hook-form.com/" target="_blank">React Hoo
 Users that have opted in to receive announcement notifications will be emailed when a new announcement is created or when a comment is added to an announcement they have commented/participated in already. This can all be managed in their notification preferences.
 
 <div align="center">
-  <img alt="Notification Preferences" src="/img/notification-preferences.png">
+  <img alt="Annuncements" src="/img/announcements.png">
 </div>
 
 ### Events
 
 Implemented using <a href="https://fullcalendar.io/" target="_blank">FullCalendar</a> which is an amazing library and I highly recommend.
+
+<div align="center">
+  <img alt="Events" src="/img/events.png">
+</div>
 
 ### Meeting Minutes
 
@@ -60,6 +68,10 @@ React Hook Form with Zod used to create & update meeting minutes. Also, supports
 ### Documents
 
 Document management implemented with AWS S3 using pre-signed URLs for download.
+
+<div align="center">
+  <img alt="Documents" src="/img/documents.png">
+</div>
 
 ### Activities
 
