@@ -41,10 +41,6 @@ Implemented using <a href="https://recharts.org/en-US/" target="_blank">recharts
 
 Implement using <a href="https://react-hook-form.com/" target="_blank">React Hook Form</a> and <a href="https://zod.dev/" target="_blank">zod</a> for validation. Upon creation of activities related to a contact, last activity date will be updated so users can tell if someone has been reached out to recently.
 
-<div align="center">
-  <img alt="Last Activity" src="/img/last-activity-date.png">
-</div>
-
 ### Announcements
 
 Users that have opted in to receive announcement notifications will be emailed when a new announcement is created or when a comment is added to an announcement they have commented/participated in already. This can all be managed in their notification preferences.
