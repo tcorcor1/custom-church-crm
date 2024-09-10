@@ -49,6 +49,10 @@ Users that have opted in to receive announcement notifications will be emailed w
   <img alt="Notification Preferences" src="/img/notification-preferences.png">
 </div>
 
+### Events
+
+Implemented using <a href="https://fullcalendar.io/" target="_blank">FullCalendar</a> which is an amazing library and I highly recommend.
+
 ### Meeting Minutes
 
 React Hook Form with Zod used to create & update meeting minutes. Also, supports document upload via S3.
